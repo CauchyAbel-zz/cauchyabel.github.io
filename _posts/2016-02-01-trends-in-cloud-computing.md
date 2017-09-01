@@ -5,8 +5,6 @@ author: cauchyabel
 post_date: 2016-02-01 16:36:11
 post_excerpt: ""
 layout: post
-permalink: >
-  http://cauchyabel.me/trends-in-cloud-computing/
 published: true
 ---
 As we discussed earlier in the [Introduction of Cloud Computing][1], we discussed about the four layer architecture of Cloud Computing technology: hardware, infrastructure, platform and application. This leads to the three service models: SaaS, PaaS, IaaS. SaaS (Software as a Service): In this service model, vendors usually provide software to clients. Software will be running on the platform provided by vendor and client only have access to using the software. Most popular SaaS include Google Apps, Salesforce and other online office suite. PaaS (Platfrom as Service): In this service model, service providers will have ready-made environment for software developer to deploy their applications. The main point for PaaS is that it saves developers a lot of time of building the environment, instead, they can put more effort on development and leave the rest to vendors. IaaS (Infrastrcture as Service): Infrastructure as a Service may be the cloud service with longest history. Usually it is presented by providers as web hosting or VPS service. It gives people more choice on the software and hardware that they need. 
