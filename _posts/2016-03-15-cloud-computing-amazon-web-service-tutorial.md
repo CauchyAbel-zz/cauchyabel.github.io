@@ -1,12 +1,9 @@
 ---
-ID: 99
 post_title: 'Cloud Computing &#8211; Amazon Web Service Tutorial'
 author: cauchyabel
 post_date: 2016-03-15 19:15:35
 post_excerpt: ""
 layout: post
-permalink: >
-  http://cauchyabel.me/cloud-computing-amazon-web-service-tutorial/
 published: true
 ---
 In my last post, we talked about how to deploy a web app on Microsoft Azure Cloud Computing platform. This time, we will try to launch our first Java EE application on an Amazon EC2 instance. 
