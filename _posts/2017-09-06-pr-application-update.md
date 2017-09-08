@@ -1,6 +1,8 @@
 ---
 layout: post
 title: PR Application Tracker
+tags:
+- life
 ---
 
 Figured I should probably keep track of my pr application somewhere.  
