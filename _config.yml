@@ -25,9 +25,7 @@ description: My development blog!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - GitHub Pages: "https://github.com/CauchyAbel"
   Author's home: 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -52,13 +50,13 @@ author:
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  stackoverflow: "5886766/benben“  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
+  steam: cauchyabel     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
 
@@ -73,13 +71,13 @@ footer-links-active:
   reddit: false
   linkedin: false
   xing: false
-  stackoverflow: false
+  stackoverflow: true
   snapchat: false
   instagram: false
   youtube: false
   spotify: false
   telephone: false
-  steam: false
+  steam: true
   twitch: false
   yelp: false
 
