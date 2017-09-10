@@ -1,6 +1,6 @@
 ---
 ID: 113
-post_title: 'Cloud Computing Platforms &#8211; My Thoughts'
+post_title: 'Cloud Computing Platforms: My Thoughts'
 author: cauchyabel
 date: 2016-03-19
 ---

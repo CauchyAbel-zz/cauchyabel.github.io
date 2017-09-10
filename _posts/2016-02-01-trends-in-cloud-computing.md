@@ -18,7 +18,7 @@ On this page, we need to use the FTP/Deployment username as our login account to
 
 Next time we will look into the deployment of web application on AWS platform, stay tuned!  
 
-###Reference  
+##Reference  
 1. Robert McMurray - Create a Java web app in Azure App Service; https://azure.microsoft.com/en-us/documentation/articles/web-sites-java-get-started/, retrieved in February, 2016  
 2. Robert McMurray - Add a Java application to Azure App Service Web Apps; https://azure.microsoft.com/en-us/documentation/articles/web-sites-java-add-app/, retrieved in February, 2016  
 3. http://stackoverflow.com/questions/1007346/how-can-i-create-a-war-file-of-my-project-in-netbeans
